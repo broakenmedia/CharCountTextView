@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CharCountTextView/charcounttextview.iml" filepath="$PROJECT_DIR$/CharCountTextView/charcounttextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharCountTextView/CharCountTextView.iml" filepath="$PROJECT_DIR$/CharCountTextView/CharCountTextView.iml" />
       <module fileurl="file://$PROJECT_DIR$/CharCountTextViewExample.iml" filepath="$PROJECT_DIR$/CharCountTextViewExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

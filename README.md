@@ -16,7 +16,7 @@ Normal             |  Count Exceeded
 ![](http://i.imgur.com/VgpFwfy.png)  |  ![](http://i.imgur.com/A3NK4wC.png)
 
 
-##Usage
+##Install
 
 Add this to your project build.gradle
 ``` gradle

@@ -31,7 +31,7 @@ Add this to your module build.gradle
 
 ``` gradle
 dependencies {
-    compile 'com.github.xbroak:CharCountTextView:v1.0'
+    compile 'com.github.broakenmedia:CharCountTextView:v1.0'
 }
 ```
 ###Usage
